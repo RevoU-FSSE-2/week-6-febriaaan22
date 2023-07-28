@@ -1,18 +1,19 @@
 # Assignment Week 6 - Docker
----
+
 
 ## Introduction
----
+
 Hello, I'm Ireng Febrian Sanjaya. I'm entering week 6 and I practicing in build back-end with Node.js and Docker app.
 
 
 ## Tools
----
+
 - Docker
 - Node.js
 
 ## Docker Installation
----
+
+
 1. Here's a [link](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-amd64) for Docker App Installation for Mac wih Intel Chip
 2. Run the app once its finish downloading.
 3. On Terminal write "docker -v" to check if it is latest version. Once it is show latest version it means the installation is success.
@@ -29,7 +30,8 @@ Hello, I'm Ireng Febrian Sanjaya. I'm entering week 6 and I practicing in build 
 
 
 ## Install Node.js
----
+
+
 1. Go to: hub.docker.com
 2. On the right side, copy the docker pull node
    ![dockerpull](Readme%20Documentation/Install%20Node.png)
@@ -39,7 +41,8 @@ Hello, I'm Ireng Febrian Sanjaya. I'm entering week 6 and I practicing in build 
 
 
 ## Images
----
+
+
 1. Make 3 files, app.js (for nodeJS application), Dockerfile (for docker), and package.json (image)
 ![filesimages](Readme%20Documentation/Images%20File.png)
 2. Fill the Dockerfile just like below
@@ -58,3 +61,11 @@ Hello, I'm Ireng Febrian Sanjaya. I'm entering week 6 and I practicing in build 
 6. The last step is run "docker run -p 3000:3001 author/name" on terminal and it will appear "Server Running at http://0.0.0.0:3001/"
 ![Docker](Readme%20Documentation/Images%206.png)
 
+
+
+This project is far from perfect and I need your feedback to improve this project <br>
+<br>
+Contact Me: <br>
+Phone: 0821-3611-1204 <br>
+[Email 1](febriansajaya22@gmail.com) / [Email 2](febriansanjaya22@gmail.com) <br>
+[Linkedin](http://linkedin.com/in/ireng-febrian-sanjaya-6a79211a7)
